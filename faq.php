@@ -14,8 +14,9 @@ body {background-color:white}
 </style>
 <body>
 <div id="header">
-<img src="logo.png" alt="Mountain View"  "text-align:center" id="logo">
-
+	<center>
+<img src="logofentt.jpg" alt="Mountain View"  "text-align:center" id="logo">
+</center>
 </div>
 
 <div id="menu">
@@ -28,26 +29,16 @@ body {background-color:white}
 </ul>
 </div>
 <div id="szoveg">
-  <r>
- <h1>Mit is kell tudni, az olimpiai jatekokrol?</h1>
-Az olimpiai játékok több sportágat magába foglaló nemzetközi eseménysorozat. 
-asd
-<div id="kezdo">
-  <img src="olimpialogo.png" height="250" width="400"> 
-  
-  <br>Az Olimpiai játékok ötkarikás szimbóluma, melyet a modernkori olimpiai játékok alapítója, Pierre de Coubertin báró, a modern olimpiai eszme elindítója tervezett 1913-ban. Valószínűleg az öt kontinenst, míg egy másik magyarázat szerint a sport alapelveit szimbolizálják: szenvedély, hit, győzelem, munkaerkölcs, sportszerűség.
-</div>
+<h1>Mit is kell tudni az olimpiai jatekokrol?</h1>
+<img src="" alt="Smiley face" height="42" width="42">
 
 
-
-
-<div id="tablazat">
 
 
 </div>
 <div id="lablec">
 Olimpia
 </div>
-<body background="back.jpeg" id="back">
+<body background="oldal.jpg" id="back">
 </body>
 </html>
