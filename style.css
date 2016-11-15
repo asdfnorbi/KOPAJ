@@ -2,7 +2,7 @@
 #kezdo{
     margin-left: 700px;
     height: 350px;
-    /*background-color: black;*/
+    background-color: black;
 }
 #header
 {
@@ -33,6 +33,7 @@ width: 1300px;
 	margin-left: 100px;
 	text-decoration: none;
     background-color: #ff1a1a;opacity: 0.6;
+    background-color: orange;
 
 	
 }
