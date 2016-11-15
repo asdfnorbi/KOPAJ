@@ -1,5 +1,7 @@
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="style.css" media="all"/>
+
 <title> OLIMPIA </title>
 <meta charset="UTF-8">
 <meta name="description" content="Free Web tutorials">
@@ -8,96 +10,7 @@
 </head>
 <style>
 body {background-color:white}
-#header
-{
-width: 1700px;
-    padding: ;
-    border: px solid green;
-    margin: px;
-	text-align:center;
-	margin-left: 100px;
 
-	
-}
-#menu
-{
-width: 1000px;
-    padding: px;
-    border: 25px s;
-    margin: px;
-	margin-left: 550px;
-	opacity: 0.8;
-}
-#szoveg
-{
-width: 1700px;
-    padding: px;
-    border: 25px  ;
-    margin: px;
-	margin-left: 100px;
-	text-decoration: none;
-    background-color: #ff1a1a;opacity: 0.6;
-
-	
-}
-#lablec
-{
-width: 1700px;
-    padding: x;
-    border: 25px ;
-    margin: px;
-	margin-left: 100px;
-	text-align:right;
-}
-li
-{
-display:inline;
-color:black;
-}
-a
-{
-
-    outline:none;
-    width: 60px;
-    background-color: #ff1a1a;
-	padding: 5px 10px;
-	text-decoration: none;
-	border-radius: 10px;
-	padding:10px;
-	margin-left: 100px;
-	letter-spacing: 1px;
-	font-size: 15px;
-
-}
-a:hover
-{
-background-color: #ff9999;
-letter-spacing: 1px;
-text-decoration: none;
-}
-
-#logo
-{
-    height: 300px;
-}
-#i1
-{
-    height: 300px;
-}
-#tablazat
-{
-    width: 800px;
-    padding: px;
-    border: 25px ;
-    margin: px;
-    margin-left: 500px;
-    opacity: 0.8;
-    padding: 50px;
-}
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-}
 </style>
 <body>
 <div id="header">
