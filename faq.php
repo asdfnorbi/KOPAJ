@@ -30,7 +30,7 @@ body {background-color:white}
 </div>
 <div id="szoveg">
 <h1>Mit is kell tudni az olimpiai jatekokrol?</h1>
-<img src="" alt="Smiley face" height="42" width="42">
+<img src="olimpialogo.png" alt="logo" height="42" width="42">
 
 
 

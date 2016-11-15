@@ -11,7 +11,7 @@
 }
 #header
 {
-width: 1700px;
+width: 1500px;
     padding: ;
     border: px solid green;
     margin: px;
@@ -37,7 +37,7 @@ width: 1300px;
     margin: px;
 	margin-left: 100px;
 	text-decoration: none;
-    background-color: #ff1a1a;opacity: 0.6;
+    background-color: #e0e0d2;opacity: 0.6;
     
 
 	
@@ -54,14 +54,15 @@ width: 1700px;
 li
 {
 display:inline;
-color:black;
+padding: 5px;
+color:#5c5c3d;
 }
 a
 {
 
     outline:none;
     width: 60px;
-    background-color: #ff1a1a;
+    background-color: #e0e0d1;
 	padding: 5px 10px;
 	text-decoration: none;
 	border-radius: 10px;
@@ -73,7 +74,7 @@ a
 }
 a:hover
 {
-background-color: #ff9999;
+background-color: #b7b795;
 letter-spacing: 1px;
 text-decoration: none;
 }
