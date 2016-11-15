@@ -1,3 +1,7 @@
+#kezdo{
+    border: 25px ;
+    background-color: black;
+}
 #header
 {
 width: 1700px;
@@ -5,7 +9,7 @@ width: 1700px;
     border: px solid green;
     margin: px;
 	text-align:center;
-	margin-left: 100px;
+	margin-left: 000px;
 
 	
 }
@@ -15,12 +19,12 @@ width: 1000px;
     padding: px;
     border: 25px s;
     margin: px;
-	margin-left: 550px;
+	margin-left: 300px;
 	opacity: 0.8;
 }
 #szoveg
 {
-width: 1700px;
+width: 1300px;
     padding: px;
     border: 25px  ;
     margin: px;
