@@ -17,8 +17,8 @@
 
 <div id="menu">
 <ul>
-<li><a href="index.html">Kezdőlap</a></li>
-<li><a href="stadion.html">Stadionról</a></li>
+<li><a class = 'link' href="index.php">Kezdőlap</a></li>
+<li><a href="index.php?menu=faq">FAQ</a></li>
 <li><a href="jatekos.html">Legjobb játékos</a></li>
 
 </ul>
@@ -27,8 +27,8 @@
 
 <?php 
 			if(isset($_GET['menu'])){
-				if($_GET['menu'] == 'pizzak'){
-					include "pizzak.php";
+				if($_GET['menu'] == 'faq'){
+					include "faq.php";
 				}
 				else if($_GET['menu'] == 'hamburger'){
 					include "hamburger.php";
