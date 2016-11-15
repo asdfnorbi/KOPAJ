@@ -32,7 +32,7 @@
 <ul>
 <li><a class = 'link' href="index.php">Kezdőlap</a></li>
 <li><a href="index.php?menu=faq">FAQ</a></li>
-<li><a href="jatekos.html">Legjobb játékos</a></li>
+<li><a href="dbtest.php">DB tests</a></li>
 
 </ul>
 </div>
@@ -43,8 +43,8 @@
 				if($_GET['menu'] == 'faq'){
 					include "faq.php";
 				}
-				else if($_GET['menu'] == 'hamburger'){
-					include "hamburger.php";
+				else if($_GET['menu'] == 'dbtest'){
+					include "dbtest.php";
 				}
 				else if($_GET['menu'] == 'kosar'){
 					include "kosar.php";
